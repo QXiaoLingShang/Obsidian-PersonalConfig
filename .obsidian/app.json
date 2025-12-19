@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./assest",
+  "promptDelete": false,
+  "useTab": true,
+  "readableLineLength": false,
+  "tabSize": 6
+}

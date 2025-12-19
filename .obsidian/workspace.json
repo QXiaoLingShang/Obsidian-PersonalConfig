@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "80797fa8231e3ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f27825cc18c5acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce4287f9527d52fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e50ace042381cda3",
+    "type": "split",
+    "children": [
+      {
+        "id": "72749470d07ea238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cd0daab44ba4955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ab8787395c00d2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e88f93042b725f1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7260feafbf5e12a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b1a4a138def2fdb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a70984e57aa6697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a8f4899bbc5f7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A-Intelligence/Projects/Modeling of 3D Blood Flows with Physics-Informed NeuralNetworks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Modeling of 3D Blood Flows with Physics-Informed NeuralNetworks 的反向链接列表"
+            }
+          },
+          {
+            "id": "43c16bc707ba7355",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A-Intelligence/Projects/Modeling of 3D Blood Flows with Physics-Informed NeuralNetworks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Modeling of 3D Blood Flows with Physics-Informed NeuralNetworks 的出链列表"
+            }
+          },
+          {
+            "id": "8a8e3f47b77f9bd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "063399cc9b7eb4a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "f118834dbd96f5c2",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Mermaid/Diagram Syntax/Flowchart.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "c95c97b019b82759",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5b78e186d6f7ceaa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 537.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "vim-toggle:Toggle Vim Mode": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4cd0daab44ba4955",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Obsidian-PersonalConfig/LICENSE",
+    "Obsidian-PersonalConfig",
+    "Assests/Pasted image 20251106123014.png",
+    "README.md",
+    "Obsidian 同步服务/Obsidian 官方同步简介.md",
+    "由此开始.md",
+    "实时预览.md",
+    "编辑与格式化/编辑与预览笔记.md",
+    "快速入门/创建仓库.md",
+    "快速入门/下载与安装.md",
+    "Untitled.md",
+    "test.md",
+    "favicon-96x96.png",
+    "为什么.md",
+    "操作系统原理/11.文件系统/第 11 章 文件系统.md",
+    "操作系统原理/11.文件系统/11.1 基于inode的文件系统.md",
+    "操作系统原理/11.文件系统/assest/Pasted image 20251219112601.png",
+    "操作系统原理/11.文件系统/assest/Pasted image 20251219110516.png",
+    "操作系统原理/11.文件系统/assest/Pasted image 20251219105130.png",
+    "操作系统原理/11.文件系统/assest/Pasted image 20251219104445.png",
+    "操作系统原理/11.文件系统/assest",
+    "Untitled 1.md",
+    "操作系统原理/11.文件系统",
+    "操作系统原理/Untitled.md",
+    "操作系统原理/王道考研/2.进程与线程/2.2 CPU调度.md",
+    "操作系统原理/王道考研/4.文件管理",
+    "操作系统原理/王道考研/5.输入输出设备",
+    "操作系统原理/王道考研/2.进程与线程/assest/Pasted image 20251219043242.png",
+    "操作系统原理/王道考研/2.进程与线程/2.4 死锁.md",
+    "操作系统原理/王道考研/2.进程与线程/2.3 同步与互斥.md",
+    "操作系统原理/王道考研/2.进程与线程/2.1 进程与线程.md",
+    "操作系统原理/王道考研/2.进程与线程/assest/Pasted image 20251219033613.png",
+    "操作系统原理/王道考研/2.进程与线程/assest",
+    "算法/assest/Pasted image 20251218114537.png",
+    "算法/个人复习突击：.md",
+    "算法/论八股文：.md",
+    "算法/3、动态规划/第 3 章 动态规划.md",
+    "Books-Reading/Code-Complete",
+    "Books-Reading/Books-Reading.md",
+    "Books-Reading",
+    "算法/assest/Pasted image 20251217195534.png",
+    "算法/assest",
+    "算法/2、递归和分支策略/第 2 章 递归与分支策略.md",
+    "算法/1.算法概述/习题：.md",
+    "算法/1.算法概述/第 1 章 算法概述.md",
+    "Untitled.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "未命名 3.canvas"
+  ]
+}

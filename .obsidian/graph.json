@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#待补完  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#部分没看懂  ",
+      "color": {
+        "a": 1,
+        "rgb": 13697024
+      }
+    },
+    {
+      "query": "tag:#DailySummary  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#章节概述  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:汇编语言  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#知识点  ",
+      "color": {
+        "a": 1,
+        "rgb": 8821154
+      }
+    },
+    {
+      "query": "tag:#学科  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:离散数学  ",
+      "color": {
+        "a": 1,
+        "rgb": 13795583
+      }
+    },
+    {
+      "query": "path:操作系统原理  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.67390852390852,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.238045738045738,
+  "repelStrength": 10.5821205821206,
+  "linkStrength": 1,
+  "linkDistance": 206,
+  "scale": 0.631604676290745,
+  "close": true
+}
