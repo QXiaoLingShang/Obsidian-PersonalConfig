@@ -143,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "操作系统原理/王道考研/2.进程与线程/2.2 CPU调度.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 2.2 CPU调度"
             }
           },
           {
@@ -188,7 +188,7 @@
             }
           },
           {
-            "id": "5b78e186d6f7ceaa",
+            "id": "b0c60392787c1414",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,54 +219,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cd0daab44ba4955",
+  "active": "ce4287f9527d52fb",
   "lastOpenFiles": [
-    "LICENSE",
-    "Obsidian-PersonalConfig/LICENSE",
-    "Obsidian-PersonalConfig",
     "Assests/Pasted image 20251106123014.png",
-    "README.md",
-    "Obsidian 同步服务/Obsidian 官方同步简介.md",
-    "由此开始.md",
-    "实时预览.md",
-    "编辑与格式化/编辑与预览笔记.md",
-    "快速入门/创建仓库.md",
-    "快速入门/下载与安装.md",
-    "Untitled.md",
-    "test.md",
-    "favicon-96x96.png",
-    "为什么.md",
+    "操作系统原理/王道考研/2.进程与线程/2.2 CPU调度.md",
+    "download.svg",
+    "assests/oscillator.gif",
+    "assests/Snipaste_2025-12-01_16-44-39.png",
+    "assests/Snipaste_2025-12-01_16-25-38.png",
+    "assests/Pasted image 20251109155120.png",
+    "欢迎.md",
+    "assests",
+    "未命名.base",
+    "LICENSE",
+    "CSU-SoftwareEngineering-Sophomore-Fall-Notes/LICENSE",
+    "CSU-SoftwareEngineering-Sophomore-Fall-Notes",
+    "assests/nn.gif",
+    "assests/Pasted image 20251115164222.png",
+    "assests/Pasted image 20251217175520.png",
+    "assests/Pasted image 20251215184516.png",
+    "assests/Pasted image 20251208085108.png",
     "操作系统原理/11.文件系统/第 11 章 文件系统.md",
     "操作系统原理/11.文件系统/11.1 基于inode的文件系统.md",
-    "操作系统原理/11.文件系统/assest/Pasted image 20251219112601.png",
-    "操作系统原理/11.文件系统/assest/Pasted image 20251219110516.png",
-    "操作系统原理/11.文件系统/assest/Pasted image 20251219105130.png",
-    "操作系统原理/11.文件系统/assest/Pasted image 20251219104445.png",
     "操作系统原理/11.文件系统/assest",
     "Untitled 1.md",
     "操作系统原理/11.文件系统",
     "操作系统原理/Untitled.md",
-    "操作系统原理/王道考研/2.进程与线程/2.2 CPU调度.md",
     "操作系统原理/王道考研/4.文件管理",
     "操作系统原理/王道考研/5.输入输出设备",
-    "操作系统原理/王道考研/2.进程与线程/assest/Pasted image 20251219043242.png",
     "操作系统原理/王道考研/2.进程与线程/2.4 死锁.md",
     "操作系统原理/王道考研/2.进程与线程/2.3 同步与互斥.md",
     "操作系统原理/王道考研/2.进程与线程/2.1 进程与线程.md",
-    "操作系统原理/王道考研/2.进程与线程/assest/Pasted image 20251219033613.png",
     "操作系统原理/王道考研/2.进程与线程/assest",
-    "算法/assest/Pasted image 20251218114537.png",
     "算法/个人复习突击：.md",
     "算法/论八股文：.md",
     "算法/3、动态规划/第 3 章 动态规划.md",
-    "Books-Reading/Code-Complete",
     "Books-Reading/Books-Reading.md",
-    "Books-Reading",
-    "算法/assest/Pasted image 20251217195534.png",
-    "算法/assest",
     "算法/2、递归和分支策略/第 2 章 递归与分支策略.md",
     "算法/1.算法概述/习题：.md",
     "算法/1.算法概述/第 1 章 算法概述.md",
+    "算法/7、随机化算法/第 7 章 随机化算法.md",
+    "算法/算法分析与设计.md",
+    "算法/Day 12.md",
+    "算法/Day 10.md",
+    "算法/4、贪心算法/第 4 章 贪心算法.md",
+    "算法/4、贪心算法/未命名.md",
+    "算法/5、回溯法/未命名.md",
+    "算法/5、回溯法/13.回溯法的效率分析.md",
+    "算法/6、分支界限法/第 6 章 分支界限法.md",
     "Untitled.canvas",
     "未命名.canvas",
     "未命名 1.canvas",

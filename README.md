@@ -7,7 +7,7 @@
 于是我在这里记录我个人用的一个配置
 对于以后新的vault，只需要在对应根目录下执行
 ```shell
-cmd /c mklink /d /j .obsidian "D:\WorkSpace\Note\个人配置1\.obsidian"
+cmd /c mklink /d /j .obsidian "D:\Study\Note\个人配置1\.obsidian"
 ```
 即可高效同步
 
